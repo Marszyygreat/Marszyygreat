@@ -33,6 +33,6 @@
 
 ### Let's connect!
 <p>
-    <a href="https://t.me/Siid0yyy" target="blank"><img src="https://img.shields.io/badge/Mas-S-30302f?style=flat&logo=telegram" /></a>
-    <a href="https://instagram.com/ahmdromeo88" target="blank"><img src="https://img.shields.io/badge/ndiap04-30302f?style=flat&logo=instagram" /></a>
+    <a href="https://t.me/Siid0yyy" target="blank"><img src="https://img.shields.io/badge/Siid0yyy-30302f?style=flat&logo=telegram" /></a>
+    <a href="https://instagram.com/ahmdromeo88" target="blank"><img src="https://img.shields.io/badge/ahmdromeo88-30302f?style=flat&logo=instagram" /></a>
 </p>
